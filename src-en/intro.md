@@ -1,28 +1,24 @@
-# Bevezető
+# Introduction
 
-## Telefonos kliensek
-<a id="Mobile Clients"></a>
+## Mobile Clients
 
-Ez a kézikönyv a számítógépes Anki-hoz van. Más kézikönyvek telefonos kliensekhez:
+This is the manual for the computer version of Anki. Separate manuals are available for the mobile clients:
 
 - [AnkiDroid Manual](https://docs.ankidroid.org/) (Android)
 - [AnkiMobile Manual](https://docs.ankimobile.net/) (iPhone/iPad)
 
-## Gyorstalpaló
-<a id="Quickstart"></a>
+## Quickstart
 
-Sietsz? Ugorj egyből a [Kezdéshez](getting-started.md)!
+In a hurry? Jump straight to [Getting Started](getting-started.md).
 
-## Segítségkérés
-<a id="Getting Help"></a>
+## Getting Help
 
-Segítségre van szükséged? Nézd meg a [Segítségkérést](./getting-help.md)!
+Looking for help? Please see [Getting Help](./getting-help.md).
 
-## Fordítások
-<a id="Translations"></a>
+## Translations
 
-A kézikönyv fordításait önkéntesek készítik. Ezek a 
-fordítások nem mindig naprakészek.
+Volunteers have contributed translations of this manual. The
+translations may not always be up to date.
 
 - [Bahasa Indonesia](https://web.archive.org/web/20250228144632/https://apps.ankiweb.net/docs/manual.id.html)
 - [Deutsch](https://web.archive.org/web/20240413080739/https://www.dennisproksch.de/anki)
@@ -38,12 +34,11 @@ fordítások nem mindig naprakészek.
 - [日本語](http://wikiwiki.jp/rage2050/)
 - [简体中文](https://open-spaced-repetition.github.io/anki-manual-zh-CN/)
 
-Hogyha szeretnél segíteni a kézikönyv egy más nyelvre való lefordításában,
-olvassd el a [fordításhoz való dokumentációt](https://translating.ankiweb.net/anki/manual.html).
+If you would like to help translate the manual into a different language,
+please see the [translation docs](https://translating.ankiweb.net/anki/manual.html).
 
-## Régi dokumentáció
-<a id="Legacy Documentation"></a>
+## Legacy Documentation
 
-Nem a legújabb Anki verziót használod? Az [Internet Archive](https://web.archive.org/web/20240829022941/https://docs.ankiweb.net/)-on megtalálhatod a kézikönyv archivált változatait.
+Not on the latest version of Anki? Find archives of this manual at the [Internet Archive](https://web.archive.org/web/20240829022941/https://docs.ankiweb.net/).
 
-Több információért az időzítő régi verzióival kapcsoladban lásd a [Gyarkori Kérdéseket](https://faqs.ankiweb.net/the-anki-2.1-scheduler.html).
+For information on old scheduler versions, see [this FAQ](https://faqs.ankiweb.net/the-anki-2.1-scheduler.html).

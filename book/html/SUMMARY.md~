@@ -2,8 +2,8 @@
 
 [Bevezető](intro.md)
 
-- [Háttér](background.md)
-- [Platformspecifikus információk](platform/intro.md)
+- [Background](background.md)
+- [Platform Notes](platform/intro.md)
   - [Windows](platform/windows/intro.md)
     - [Letöltés és frissítés](platform/windows/installing.md)
     - [Letöltési problémák](platform/windows/installation-issues.md)
