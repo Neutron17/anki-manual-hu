@@ -1,6 +1,10 @@
-# Anki Manual
+# Hungarian Anki Manual
 
-This repository contains the source of [Anki's user manual](https://docs.ankiweb.net).
+THIS IS NOT AN OFFICIAL TRANSLATION
+
+This repository contains the source of the [Anki's Hungarian user manual](https://neutron17.github.io/anki-manual-hu/).
+
+The rest of the README is the same as the original anki-manual
 
 ## License 
 

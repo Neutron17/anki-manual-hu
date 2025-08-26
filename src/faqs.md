@@ -1,3 +1,3 @@
-# Frequently Asked Questions
+# Gyakori Kérdések
 
-Please see <https://faqs.ankiweb.net>
+Lásd: <https://faqs.ankiweb.net>

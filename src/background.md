@@ -1,41 +1,43 @@
-# Background
+# Háttér
 
 <!-- toc -->
 
-Anki is a program which makes remembering things easy. Because it is a
-lot more efficient than traditional study methods, you can either
-greatly decrease your time spent studying, or greatly increase the
-amount you learn.
+Az Anki célja, hogy könnyítsen a dolgok megjegyezésénben. Mivel jóval 
+hatékonyabb a megszokott tanulási módszereknél, vagy jóval kevesebb 
+időt kell tanulnod, vagy jóval többet tudsz megtanulni ugyanannyi 
+idő alatt.
 
-Anyone who needs to remember things in their daily life can benefit from
-Anki. Since it is content-agnostic and supports images, audio, videos
-and scientific markup, the possibilities are endless. For
-example:
+Az Anki akárki számára hasznos lehet, akinek szüksége van egyes dolgok 
+megjegyzésére. Mivel az Anki tartalomfüggetlen, és támogatja a képek, 
+hang, videó, és tudományos jelölőnyelvek használatát, a lehetőségek 
+határtalanok. Például:
 
-- Learning a language
+- Nyelvtanulás
 
-- Studying for medical and law exams
+- Orvosi vagy jogi vizsgákra való tanulás
 
-- Memorizing names and faces of people
+- Emberek neveinek és arcainak megjegyzése
 
-- Brushing up on geography
+- Földrajz tudás felevenítése
 
-- Mastering long poems
+- Versek/memoriterek bemagolása
 
-- Even practising guitar chords!
+- Még akár gitár akkordok gyakorlására is jó!
 
-There are two simple concepts behind Anki: **active recall testing** and
-**spaced repetition**. They are not known to most learners, despite being well-documented in scientific literature.
-Understanding how these concepts work will make you a more effective learner.
+Az Anki két egyszerű alapelvre épül: az aktív felidézéses tesztelésre (active recall testing) 
+és térközös ismétlésre (spaced repetition). Habár a tudományos szakirodalomban mindkettő jól 
+dokumentált, a legtöbb tanuló nem tud rolluk. Ezeknek a tanulási módszereknek a megértése 
+jelentősen növeli a tanulás hatékonyságát.
 
-## Active Recall Testing
+## Aktív Felidézés Tesztelés
+<a id="Active Recall Testing"></a>
 
-_Active recall testing_ means being asked a question and trying to
-remember the answer. This is in contrast to _passive study_, where we
-read, watch, or listen to something without pausing to consider if we
-know the answer. Research has shown that active recall testing is far
-more effective at building strong memories than passive study. There are
-two reasons for this:
+Az aktív felidézés tesztelés annyit tesz, hogy kapsz egy kérdést, és 
+megpróbálsz visszaemlékezni a válaszra. Ellentétben a passzív tanulással, 
+ahol olvasol, nezél, vagy hallgatsz valamit anélkül, hogy megállnál elgondolkodni, 
+hogy tudod-e a választ. Kutatások azt mutatják, hogy az aktív felidézés tesztelés 
+jóval hatékonyabb a passzív tanulásnál az tartós emléknyomok kialakításában. 
+Ennek két fő oka van:
 
 - The act of recalling something _strengthens_ the memory, increasing
   the chances we’ll be able to remember it again.

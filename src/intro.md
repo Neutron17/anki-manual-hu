@@ -1,5 +1,7 @@
 # Bevezető
 
+Ez a kézikönyv még fordítás alatt áll, lehet hogy egyes fejezetek még csak részben vagy egészben csak angolul érhetőek el.
+
 ## Telefonos kliensek
 <a id="Mobile Clients"></a>
 
@@ -16,7 +18,7 @@ Sietsz? Ugorj egyből a [Kezdéshez](getting-started.md)!
 ## Segítségkérés
 <a id="Getting Help"></a>
 
-Segítségre van szükséged? Nézd meg a [Segítségkérést](./getting-help.md)!
+Segítségre lenne szükséged? Nézd meg a [Segítségkérést](./getting-help.md)!
 
 ## Fordítások
 <a id="Translations"></a>
@@ -46,4 +48,4 @@ olvassd el a [fordításhoz való dokumentációt](https://translating.ankiweb.n
 
 Nem a legújabb Anki verziót használod? Az [Internet Archive](https://web.archive.org/web/20240829022941/https://docs.ankiweb.net/)-on megtalálhatod a kézikönyv archivált változatait.
 
-Több információért az időzítő régi verzióival kapcsoladban lásd a [Gyarkori Kérdéseket](https://faqs.ankiweb.net/the-anki-2.1-scheduler.html).
+További információért az időzítő régi verzióival kapcsoladban lásd a [Gyarkori Kérdéseket](https://faqs.ankiweb.net/the-anki-2.1-scheduler.html).

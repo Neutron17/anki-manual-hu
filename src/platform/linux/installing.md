@@ -1,8 +1,10 @@
-# Installing & Upgrading Anki on Linux
+# Az Anki telepítése és frissítése Linux-on
+<a id="Installing & Upgrading Anki on Linux"></a>
 
 <!-- toc -->
 
-## Requirements
+## Telepítési Követelmények
+<a id="Requirements"></a>
 
 The packaged version requires a recent 64 bit Intel/AMD Linux with glibc, and common
 libraries like libwayland-client and systemd. If you are on a different
@@ -10,37 +12,37 @@ architecture (e.g ARM/AArch64), or a barebones Linux distro, you will not be abl
 packaged version, but you may be able to use the [Python wheels](https://betas.ankiweb.net/#via-pypipip)
 instead.
 
-Debian and derivatives, such as Ubuntu and [Chromebooks with Linux enabled](https://support.google.com/chromebook/answer/9145439?), please use the following before
-installing:
+Debian(alapú) rendszereken (mint pl. az Ubuntu), és [Linux-os Chromebook-okon](https://support.google.com/chromebook/answer/9145439?), futtasd le a következő parancsot
+a telepítés megkezdése előtt:
 
 ```shell
 sudo apt install libxcb-xinerama0 libxcb-cursor0 libnss3
 ```
 
-If Anki fails to start after installing, you may be [missing other libraries](./missing-libraries.md).
+Ha az Anki nem tud lefutni telepítés után, lehet hogy [hiányoznak más segédkönyvtárak](./missing-libraries.md).
 
-If you're on Ubuntu 24.04 and Anki won't start, please see [this thread](https://forums.ankiweb.net/t/issues-running-on-ubuntu-24-04/40974).
+Hogyha Ubunti 24.04-en vagy, és nem tudod lefuttatni az Anki-t, olvasd el [ezt az angol nyelvű oldalt](https://forums.ankiweb.net/t/issues-running-on-ubuntu-24-04/40974)!
 
-Anki's build system only supports glibc, so musl-based distros are not currently supported.
+Az Anki csak a glibc-vel működik, a musl-alapú disztribúciókon jelenleg nem fog működni.
 
-## Installing
+## Telepítés
 
-To install Anki:
+Az Anki telepítéséhez:
 
-1. Download Anki from <https://apps.ankiweb.net> to your Downloads folder.
-2. If zstd is not already installed on your system, you'll need to install it (e.g `sudo apt install zstd`).
-3. Open a terminal and run the following commands, replacing the filename as appropriate.
+1. Töltsd le az Anki-t a <https://apps.ankiweb.net>-ről a Downloads(letöltések) mappába.
+2. Ha a zstd nincs letöltve a rendszereden, le kell majd telepítened (pl: `sudo apt install zstd`)
+3. Nyitsd meg a terminálodat, és futtasd le a következő parancsokat, a fájl/mappaneveket persze írd át megfelelőkre.
 
 ```shell
-tar xaf Downloads/anki-2XXX-linux-qt6.tar.zst
-cd anki-2XXX-linux-qt6
+tar xaf Downloads/anki-launcher-2XXX-linux.tar.zst
+cd anki-launcher-2XXX-linux
 sudo ./install.sh
 ```
 
-On some Linux systems, you may need to use `tar xaf --use-compress-program=unzstd`.
+Egyes Linux rendszereken lehet, hogy más paramétereket kell használnod: `tar xaf --use-compress-program=unzstd`
 
-4. You can then start Anki by typing `anki` and hitting <kbd>Enter</kbd>. If you encounter
-   any issues, please see the links on the left.
+4. Ezek után úgy futtathatod az Anki-t, hogy beírod a terminálba, hogy `anki` majd <kbd>Enter</kbd>-t nyomsz.
+   Hogyha valamilyen problémába ütköznél, nézd meg a bal oldalt lévő linkeket.
 
 ## Upgrading
 
